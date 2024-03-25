@@ -1,6 +1,6 @@
 # Import Module
 from tkinter import *
-from ReminderText import *
+# from ReminderText import *
 from PIL import *
 from PIL import Image, ImageTk
 
