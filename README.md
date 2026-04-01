@@ -1,0 +1,3 @@
+Entry for the PA Raspberry Pi Competition 2024 - a system to allow family members or carers to schedule reminders (with visual, text and audio aids) remotely to be played throughout the day for someone in recipient of care to receive and send a response by pressing a button, signalling whether they have completed the task or need extra help. This allows the carer or family member to remotely check in throughout the day and when the button for extra help or no response is selected, act appropriately. 
+
+Documentation: https://drive.google.com/drive/folders/1R3lzNCm-yN2olWvA4JDn5MeioNvrUQGi?usp=drive_link
